@@ -2,7 +2,7 @@ library(httr2)
 library(tidyverse)
 library(writexl)
 
-VK_ACCESS_TOKEN = 'vk1.a.2m8C-axmCes_i-dT29PxrEXwt0FzeSCLZFWb3X1W1rrzeyV9hy7zVebHHPckqNeng9kxrIR50TSo-qn9HS95NPQvzxlGjPDbAEYjOgWfO34EFDlrDcFRQW5Fe-WxI3LqLQtw3nIEuz74YhWhV5E7MCNIiF43F7ASFlfwP75IfAPEzbEbT_aZbFAOu9BEmJY8oOvgyfeDbuiHRy-0E3yKJw'
+VK_ACCESS_TOKEN = ''
 geo = c(56.838011, 60.597474)
 dist = 12000
 timeperiod = c(1672520400, 1704056400)
